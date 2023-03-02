@@ -1,4 +1,4 @@
-import * as glide from "../glide";
+import * as glide from "glide";
 
 import Humanize from "humanize-plus";
 

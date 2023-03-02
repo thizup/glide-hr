@@ -1,0 +1,21 @@
+{
+  "name": "glide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-zup:thizup/glide-hr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glide": "^0.2.0",
+    "humanize-plus": "^1.8.2",
+    "typescript": "^4.9.5"
+  }
+}
